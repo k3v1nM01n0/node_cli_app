@@ -1,0 +1,19 @@
+{
+  "name": "propine_engineering_interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin Moino",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.3",
+    "axios": "^0.26.1",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.0",
+    "minimist": "^1.2.6"
+  }
+}
