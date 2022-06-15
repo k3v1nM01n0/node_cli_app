@@ -1,7 +1,7 @@
 
 # CLI App
 
-This is the solution to propine engineering interview, question 1. It's a command line application for parsing crypto transactions saved in a [csv file](https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip).
+This is a command line application for parsing crypto transactions saved in a [csv file](https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip).
 
 
 # Usage
